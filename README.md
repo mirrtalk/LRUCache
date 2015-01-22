@@ -34,7 +34,7 @@ liblrucache
 ```
 
 ##Connect
-* chenjianfei@daoke.me
+* chenjianfei
 
 ##Date
 * 2014/12/15
